@@ -9,7 +9,7 @@
 ---
 
 <details>
-<summary>#📽️ 전체 시연 GIF 보기 (클릭)</summary>
+<summary>📽️ 전체 시연 GIF 보기 (클릭)</summary>
 
 ## 🖥 메인 페이지
 
@@ -124,7 +124,8 @@
 - **해결**: 선택한 사원의 정보를 `JavaScript 배열`에 캐싱하여 트리 리로드 시에도 재반영
 - **기술**: jsTree, DOM 캐시, 배열 기반 상태관리
 
----
+<div style="border-top: 1px solid #ddd; margin: 16px 0;"></div>
+
 
 ### 2. 업무 추가 시 상위 업무 연동 오류
 
