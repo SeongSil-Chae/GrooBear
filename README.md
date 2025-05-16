@@ -106,6 +106,5 @@
 
 ## 🔗 관련 링크
 
-- 💻 [프로젝트 데모 페이지](https://seongsil-chae.github.io/GrooBear/)
 - 🧾 [포트폴리오 메인 페이지](https://seongsil-chae.github.io/portfolio/)
 - 📦 [GitHub 저장소](https://github.com/SeongSil-Chae/GrooBear)
