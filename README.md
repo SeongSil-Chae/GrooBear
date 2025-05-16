@@ -8,6 +8,9 @@
 
 ---
 
+<details>
+<summary>📽️ 전체 시연 GIF 보기 (클릭)</summary>
+
 ## 🖥 메인 페이지
 
 ![메인](./preview/main/main.gif)
@@ -88,6 +91,8 @@
 | 업무 상세 보기 | ![taskKanban2](./preview/task-kanban/taskKanban2.gif) |
 
 ---
+
+</details>
 
 ## 📌 기술 스택
 
