@@ -7,29 +7,29 @@
 
 ## 🖥 메인 페이지
 
-![메인](./assets/main.gif)
+![메인](./preview/main/main.gif)
 
 ---
 
 ## 📊 대시보드 (탭1)
 
-![대시보드](./assets/dashboard.gif)
+![대시보드](./preview/dashboard/dashboard.gif)
 
 ---
 
 ## 📁 프로젝트 목록 (탭2)
 
 ### 🔸 삭제 기능
-![삭제](./assets/delete.gif)
+![삭제](./preview/project-list/delete.gif)
 
 ### 🔸 필터 검색
-![필터 검색](./assets/filter.gif)
+![필터 검색](./preview/project-list/filter.gif)
 
 ### 🔸 엑셀 다운로드
-![엑셀](./assets/excel.gif)
+![엑셀](./preview/project-list/excel.gif)
 
 📎 결과 예시:
-![엑셀결과](./assets/excel-result.png)
+![엑셀결과](./preview/project-list/excel-result.png)
 
 ---
 
@@ -40,25 +40,25 @@
 
 | Step | 미리보기 |
 |------|----------|
-| Step1 | ![step1](./assets/insert1.gif) |
-| Step2 | ![step2](./assets/insert2.gif) |
-| Step3 | ![step3](./assets/insert3.gif) |
-| Step4 | ![step4](./assets/insert4.gif) |
+| Step1 | ![step1](./preview/insert/insert1.gif) |
+| Step2 | ![step2](./preview/insert/insert2.gif) |
+| Step3 | ![step3](./preview/insert/insert3.gif) |
+| Step4 | ![step4](./preview/insert/insert4.gif) |
 
 ---
 
 ## 🔍 프로젝트 상세 보기
 
-![상세](./assets/projectDetail.gif)
+![상세](./preview/project-detail/projectDetail.gif)
 
 📎 업무 추가 화면:
-![업무 추가](./assets/taskAdd.png)
+![업무 추가](./preview/project-detail/taskAdd.png)
 
 ---
 
 ## 🛠 프로젝트 수정
 
-![수정](./assets/update.gif)
+![수정](./preview/update/update.gif)
 
 ---
 
@@ -66,14 +66,14 @@
 
 | 설명 | 예시 |
 |------|------|
-| 간트 기본 구성 | ![Gantt1](./assets/Gantt1.gif) |
-| 간트 상세보기 | ![Gantt2](./assets/Gantt2.gif) |
+| 간트 기본 구성 | ![Gantt1](./preview/gantt/Gantt1.gif) |
+| 간트 상세보기 | ![Gantt2](./preview/gantt/Gantt2.gif) |
 
 ---
 
 ## 🗂 프로젝트 칸반 보드 (탭4)
 
-![프로젝트 칸반](./assets/projectKanban.gif)
+![프로젝트 칸반](./preview/project-kanban/projectKanban.gif)
 
 ---
 
@@ -81,8 +81,8 @@
 
 | 구분 | 미리보기 |
 |------|-----------|
-| 업무 상태별 이동 | ![taskKanban1](./assets/taskKanban1.gif) |
-| 업무 상세 보기 | ![taskKanban2](./assets/taskKanban2.gif) |
+| 업무 상태별 이동 | ![taskKanban1](./preview/task-kanban/taskKanban1.gif) |
+| 업무 상세 보기 | ![taskKanban2](./preview/task-kanban/taskKanban2.gif) |
 
 ---
 
