@@ -89,9 +89,6 @@
 
 ## 📌 기술 스택
 
-<details>
-<summary>✨ 클릭해서 기술 스택 보기 (애니메이션 뱃지)</summary>
-
 | 분야 | 기술 스택 |
 |------|------------|
 | 🖼️ Frontend | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
@@ -99,7 +96,6 @@
 | 🗄️ Database | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
 | 🧩 기타 | ![WebSocket](https://img.shields.io/badge/WebSocket-FF9900?style=for-the-badge&labelColor=black&logo=websocket) ![DHTMLX Gantt](https://img.shields.io/badge/DHTMLX%20Gantt-2D8EFF?style=for-the-badge&labelColor=black) ![SweetAlert](https://img.shields.io/badge/SweetAlert-FFB6C1?style=for-the-badge&labelColor=black) ![Apache POI](https://img.shields.io/badge/Apache%20POI-4B6EAF?style=for-the-badge&labelColor=black) |
 
-</details>
 
 ---
 
