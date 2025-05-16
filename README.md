@@ -8,6 +8,16 @@
 
 ---
 
+## 🗂 ERD 설계
+
+> 전체 테이블 구조를 시각화한 ERD입니다.  
+> 이미지가 클 경우 클릭하여 원본 크기로 보세요.
+
+![ERD](./preview/erd/erd.png)
+
+---
+
+
 <details>
 <summary>📽️ <strong>▶️ 전체 시연 GIF 보기 (클릭해서 펼치기)</strong></summary>
 
