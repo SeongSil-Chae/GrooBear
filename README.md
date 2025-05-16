@@ -9,7 +9,7 @@
 ---
 
 <details>
-<summary>📽️ 전체 시연 GIF 보기 (클릭)</summary>
+<summary>#📽️ 전체 시연 GIF 보기 (클릭)</summary>
 
 ## 🖥 메인 페이지
 
