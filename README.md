@@ -18,8 +18,12 @@
 ---
 
 
+## 📽️ 전체 시연 미리보기
+
 <details>
-<summary>📽️ <strong>▶️ 전체 시연 GIF 보기 (클릭해서 펼치기)</strong></summary>
+<summary><strong>▶️ 클릭해서 전체 시연 GIF 펼쳐보기</strong></summary>
+
+<br>
 
 ## 🖥 메인 페이지
 
