@@ -133,7 +133,8 @@
 - **해결**: `select` 요소 변경 이벤트 감지 → hidden 필드에 상위 ID 갱신 로직 삽입
 - **기술**: 이벤트 위임, `form` 구성 요소 분리
 
----
+<div style="border-top: 1px solid #ddd; margin: 16px 0;"></div>
+
 
 ### 3. 파일 업로드 시 첨부파일 번호 누락
 
@@ -141,7 +142,8 @@
 - **해결**: 서버 단에서 `insertFileList()`가 먼저 실행되도록 순서 조정 + 업로드 완료 후 `fileId` 반영
 - **기술**: 파일 업로드 순서 동기화, `AttachFileService` 재정비
 
----
+<div style="border-top: 1px solid #ddd; margin: 16px 0;"></div>
+
 
 ### 4. 업무 등록 시 업무명이 비어 있는 경우 등록되는 현상
 
@@ -159,21 +161,24 @@
 - 단일 JSP 페이지에서 탭별 기능을 구성하며 **AJAX 기반 SPA 유사 구조 구현 경험**을 축적
 - VO 분리(GanttTaskVO / KanbanTaskVO / ProjectTaskEntity)를 설계하며 **도메인별 책임 분리와 확장성**을 고려한 설계 경험
 
----
+<div style="border-top: 1px solid #ddd; margin: 16px 0;"></div>
+
 
 ### 🤝 협업에서 배운 점
 
 - 참여자 역할 정리 및 브랜치 전략을 통해 **업무 충돌 없이 협업 관리** 가능함을 경험
 - 주도적으로 문서화와 회의 정리를 하며 팀원 간 커뮤니케이션의 중요성을 체감
 
----
+<div style="border-top: 1px solid #ddd; margin: 16px 0;"></div>
+
 
 ### 💡 개선하고 싶은 점
 
 - 디자인과 반응형 레이아웃 설계에서 부족함을 느껴 프론트엔드 영역에 대한 감각과 리팩토링 경험을 더 늘릴 필요가 있음
 - DB 설계 초기에 정규화/반정규화 판단 기준이 부족했음 → 더 많은 ERD 구조 사례 학습 예정
 
----
+<div style="border-top: 1px solid #ddd; margin: 16px 0;"></div>
+
 
 ### 🧠 개인적인 성장
 
