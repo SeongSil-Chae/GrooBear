@@ -2,6 +2,7 @@
 
 > 팀 협업과 프로젝트 관리를 통합한 웹 기반 그룹웨어 시스템입니다.
 > 실시간 알림, Gantt & Kanban 보드, 프로젝트 다단계 등록 등 실제 조직 업무에 최적화된 기능을 구현했습니다.
+> 다른 기능으로는 실시간 채팅, 전자결재, 메일, 일정관리, 커뮤니티 게시판 등이 있습니다.
 
 ---
 
@@ -88,10 +89,12 @@
 
 ## 📌 기술 스택
 
-- **Frontend**: HTML5, CSS3, JavaScript, jQuery, Bootstrap
-- **Backend**: Java, JSP, Spring Boot, MyBatis
-- **Database**: Oracle
-- **기타 기술**: WebSocket, DHTMLX Gantt, SweetAlert, Apache POI
+| 분야 | 기술 스택 |
+|------|------------|
+| 🖼️ Frontend | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| ⚙️ Backend | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-00599C?style=flat-square) |
+| 🗄️ Database | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| 🧩 기타 | ![WebSocket](https://img.shields.io/badge/WebSocket-FF9900?style=flat-square) ![DHTMLX Gantt](https://img.shields.io/badge/DHTMLX%20Gantt-2D8EFF?style=flat-square) ![SweetAlert](https://img.shields.io/badge/SweetAlert-FFB6C1?style=flat-square) ![Apache POI](https://img.shields.io/badge/Apache%20POI-4B6EAF?style=flat-square) |
 
 ---
 
